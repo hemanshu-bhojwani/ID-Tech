@@ -2,6 +2,7 @@
 Adventure Project made with friends in 2016 at an ID-Tech Summer Camp.
 
 This text-based adventure game has been made using Python and Object-Oriented Programming.
+Intro.wav and final.wav were made on our own. 
 
 To make the program work, open your command prompt/terminal and install piglet using
     "pip3 install pyglet"
